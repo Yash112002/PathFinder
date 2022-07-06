@@ -16,6 +16,17 @@ Objective :
 
 
 
+Algorithm Used : 
+
+
+    1. BFS Algorithm
+    2. Floyd Warshall/Dijktra Algorithm
+    3. print_all_path_to_dest_node Algorithm
+    4. Prims Algorithm
+   
+    
+    
+    
 Flowchart : 
 
 
