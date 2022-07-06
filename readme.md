@@ -24,7 +24,19 @@ Algorithm Used :
     3. print_all_path_to_dest_node Algorithm
     4. Prims Algorithm
    
-    
+
+
+
+Operations : 
+
+
+    1. shortest path from initial position to a partricular destination
+    2. shortest path from initial position to the all locations in a particular area
+    3. show all paths from initial position to destination 
+    4. Is it possible to complete the deleivery in limited petrol
+    5. provide the path to nearest petrol pump nearest petrol pump
+    6. Termination
+
     
     
 Flowchart : 
