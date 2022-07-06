@@ -15,12 +15,16 @@ Objective :
 
 
 Flowchart : 
+
+
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/77615518/177482282-c6503bd3-f381-4851-a68d-b77718a25384.png">
 
 
 
 
 Various operations in program : 
+
+
 <img width="541" alt="image" src="https://user-images.githubusercontent.com/77615518/177482846-ece159df-f435-4f0d-98bc-c7e700a55c82.png">
 
 
